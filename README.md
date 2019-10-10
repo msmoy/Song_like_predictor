@@ -43,7 +43,7 @@ This is based off a dataset that was obtained via [Kaggle](https://www.kaggle.co
     - Dataset that user obtained on their song history from Spotify. Includes song attributes and a target column (1 = liked song, 0 = unliked song)
 
 - **liked_songs.py**
-        - code for reviewing data and creating classifier to predict whether the user liked a specific song
+    - code for reviewing data and creating classifier to predict whether the user liked a specific song
         
 - **README.md**
     
